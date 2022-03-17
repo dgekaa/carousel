@@ -1,7 +1,7 @@
 {
   "name": "carousel_test_react_ts",
   "version": "0.1.0",
-  "homepage": "https://dgekaa.github.io/carousel_test",
+  "homepage": "http://dgekaa.github.io/carousel_test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
